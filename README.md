@@ -3,6 +3,8 @@
 A comprehensive React-based dashboard for performing root cause analysis (RCA) on business metrics. This application provides powerful visualization tools, automated analysis algorithms, and interactive exploration capabilities to help teams identify and understand the underlying factors contributing to metric changes.
 
 ## 🚀 Features
+### Demo
+![Function Demo](function-demo.gif)
 
 ### 📊 **Interactive Dashboards**
 - **Daily Metrics View**: Analyze daily business metrics with configurable time ranges and week-over-week comparisons
