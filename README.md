@@ -6,6 +6,8 @@ A comprehensive React-based dashboard for performing root cause analysis (RCA) o
 ### Demo
 ![Function Demo](function-demo.gif)
 
+**Live [Link](https://root-cause-analysis-ui-hgie.vercel.app/)**
+
 ### 📊 **Interactive Dashboards**
 - **Daily Metrics View**: Analyze daily business metrics with configurable time ranges and week-over-week comparisons
 - **Hourly Metrics View**: Time-based analysis of hourly data patterns with peak hour identification
